@@ -1,6 +1,6 @@
 # 💼 Portfolio 💼
 
-Bonjour, je suis **Gaspard Le Du**, étudiant en Sciences Sociales (Sciences Po Rennes, Master R.E.S.S.P). Mon objectif actuel est de me spécialiser en data science appliquée aux sciences sociales. Ce portfolio est destiné à montrer mon travail et mes sujets de prédilection (polarisation politique, immigration, enjeux sociaux du numérique, gestion des animaux urbains...). Bienvenue sur mon espace GitHub!
+Bonjour, je suis **Gaspard Le Du**, étudiant en Sciences Sociales (Sciences Po Rennes, Master R.E.S.S.P). Mon objectif actuel est de me spécialiser en data science appliquée aux sciences sociales. Ce portfolio est destiné à présenter mon travail et mes sujets de prédilection (polarisation politique, immigration, enjeux sociaux du numérique, gestion des animaux urbains...). Bienvenue sur mon espace GitHub!
 
 ## 📝 Axes de travail
 - **Exemples de sujets travaillés** : Comportement électoral des descendant•e•s d'immigrés | Interactions sociales en ligne | Régulation des locations de courte durée | Gestion des animaux urbains | Gestion publique de catastrophes sanitaires | Relations entre action publique et mouvements sociaux écologistes | ...
