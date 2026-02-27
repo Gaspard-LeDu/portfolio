@@ -7,6 +7,8 @@
 
 - **Méthodes mixtes de recherche** : *Explications du vote FN / RN parmi les descendant•e•s d'immigrés depuis 2012* | Analyse uni-variée (tris à plat) - Analyse bi-variée (Khi², V de Cramer, résidus standardisés, régression linéaire) - Analyse multi-variée (Régression logistique, ACM) | Note finale : (/20)
 
+- **Construction médiatique des problèmes publics** : *"Partage des tâches ménagères & Convictions politiques"* | Nettoyage de données - Recodage - Analyse univariée - Analyse bivariée - Tableaux croisés et tests d’association (Khi², V de Cramer) - Régression linéaire | Note finale : (16/20)
+
 - **Introduction aux méthodes statistiques** : *"Partage des tâches ménagères & Convictions politiques"* | Nettoyage de données - Recodage - Analyse univariée - Analyse bivariée - Tableaux croisés et tests d’association (Khi², V de Cramer) - Régression linéaire | Note finale : (16/20)
 
 ## Contact
