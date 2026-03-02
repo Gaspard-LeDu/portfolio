@@ -1,4 +1,4 @@
-# Algorithme de Web scrapping réalisé avec Web scraper
+# Algorithme de Web scraping réalisé avec Web scraper
 
 - **À partir du site internet Vie-Publique** : [https://www.vie-publique.fr/discours/recherche?search_api_fulltext_discours=&sort_by=field_date_prononciation_discour&field_intervenant_title=&field_intervenant_qualite=&field_date_prononciation_discour_interval%5Bmin%5D=2001-09-10&field_date_prononciation_discour_interval%5Bmax%5D=2026-01-01&field_type_emetteur%5B9340%5D=9340]
 
