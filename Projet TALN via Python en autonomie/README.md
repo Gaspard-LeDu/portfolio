@@ -9,3 +9,5 @@
 - **Méthodologie :** web scraping, nettoyage et normalisation, fréquence pour 10 000 mots, TF-IDF, cooccurrence, analyse statistique (anova, coefficients de corrélation, p-value).
 
 - **Résultats :** La guerre est une thématique importante comparée à d'autres sujets, la rhétorique de guerre est croisante de manière positive et significative ces dernières années, la rhétorique de guerre s'étend de plus en plus à d'autres thématiques de manière positive et significative. 
+
+<iframe title="Figure 3" aria-label="Lignes" id="datawrapper-chart-wObZu" src="https://datawrapper.dwcdn.net/wObZu/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="494" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
