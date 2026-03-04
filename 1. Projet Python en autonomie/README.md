@@ -2,7 +2,7 @@
 
 ## Organisation du dossier
 
-- **Projet de recherche détaillé :** fichier pdf contenant le compte-rendu complet de la recherche menée en autonomie (sujet, cadre théorique, méthodologie, problématique, résultat, discussions, conclusion)
+- **Projet de recherche détaillé :** fichier pdf contenant le compte-rendu complet de la recherche menée en autonomie (sujet, cadre théorique, méthodologie, problématique, résultats, discussions, conclusion)
 - **Notebook détaillé :** fichier Jupyter Notebook contenant le code détaillé et commenté du projet
 - **Représentations graphiques :** ensemble de représentations graphiques produites via Python et à l'aide du site Data Wrapper
 
