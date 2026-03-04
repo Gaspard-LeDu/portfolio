@@ -1,3 +1,2 @@
 # Présentation
-
-<iframe title="Figure 3" aria-label="Lignes" id="datawrapper-chart-wObZu" src="https://datawrapper.dwcdn.net/wObZu/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="494" data-external="1"></iframe>
+![Project Logo]([images/logo.png "My Project Logo"](https://github.com/Gaspard-LeDu/portfolio/blob/main/Projet%20TALN%20via%20Python%20en%20autonomie/Repr%C3%A9sentations%20graphiques/Figure%203.html))
