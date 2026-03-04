@@ -10,9 +10,9 @@
 
 - **Question de recherche :** la rhétorique de guerre devient-elle plus importante dans les discours présidentiels français depuis le 11 septembre 2001 ?
 
-- **Hypothèses :** première hypothèse sur une importance générale de la guerre ces 25 dernières années, deuxième hypothèse sur une importance croissante, troisième hypothèse sur une expansion de la rhétorique de guerre à d'autres sujets.
+- **Hypothèses :** la guerre est une thématique importante comparée aux autres sur 25 ans, l'importance de la rhétorique de guerre est croissante ces dernières années, la rhétorique de guerre s'étend de plus en plus à d'autres sujets.
 
-- **Données :** Corpus issu de Vie-Publique.fr, 5 554 discours présidentiels français depuis le 11 septembre 2001, aspirés via l'application Web Scraper au format csv. Chaque individu représente un discours. Le corpus est trop volumineux pour être partagé (85mo au format CSV, 26mo au format ZIP)
+- **Données :** Corpus issu de Vie-Publique.fr, 5 554 discours présidentiels français depuis le 11 septembre 2001, aspirés via l'application Web Scraper au format CSV. Chaque individu représente un discours. Le corpus est trop volumineux pour être partagé (85mo au format CSV, 26mo au format ZIP)
 
 - **Méthodologie :** web scraping, nettoyage et normalisation, fréquence pour 10 000 mots, TF-IDF, cooccurrence, analyse statistique (anova, coefficients de corrélation, p-value).
 
