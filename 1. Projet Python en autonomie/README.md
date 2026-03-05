@@ -16,6 +16,6 @@
 
 - **Méthodologie :** web scraping, nettoyage et normalisation, fréquence pour 10 000 mots, TF-IDF, cooccurrence, analyse statistique (anova, coefficients de corrélation, p-value).
 
-- **Résultats :** La guerre est une thématique importante comparée à d'autres sujets, la rhétorique de guerre est croisante de manière positive et significative ces dernières années, la rhétorique de guerre s'étend de plus en plus à d'autres thématiques de manière positive et significative.
+- **Résultats :** La guerre est une thématique importante comparée à d'autres sujets, la rhétorique de guerre est croisante de manière positive et significative ces dernières années, la rhétorique de guerre s'étend de plus en plus à d'autres thématiques (la relation est positive et significative).
 
 - **Discussions :** l'analyse de réseau semble être la piste la plus pertinente pour mesurer l'évolution globale des discours présidentiels français, nécessitant un encadrement par un Master spécialisé
